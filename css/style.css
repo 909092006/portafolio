@@ -52,7 +52,7 @@ nav ul li a:hover {
 }
 
 
-/* Oscurece un poco la imagen para que el texto se vea mejor */
+/* Estilo de Imagen */
 .banner::before{
     content: "";
     position: absolute;
